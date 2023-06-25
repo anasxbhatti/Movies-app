@@ -1,0 +1,1 @@
+class FetchingFailedException implements Exception {}
